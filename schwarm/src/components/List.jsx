@@ -10,12 +10,12 @@ export default class List extends Component {
             .filter(entry => this.filterSearch(entry))
             .filter(entry => this.filterProtected(entry))
             .filter(entry => this.filterCurrent(entry))
-            .map(entry => <Species data={entry} />)
+            .map(entry => <Species data={entry} key={entry.kind} />)
 
         let ret =[]
         for(var i = 0; i < species.length; i++) {
             if (i % 10 === 0) {
-                ret.push(<Desc />)
+                ret.push(<Desc key={i} />)
             }
 
             ret.push(species[i])
