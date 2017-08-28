@@ -54,3 +54,7 @@ body {
     font-weight: bold;
     text-align: left;
 }
+
+#schwarm #form input {
+    font-size: 10px;
+}
