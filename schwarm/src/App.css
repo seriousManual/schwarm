@@ -1,0 +1,56 @@
+body {
+    font-family: sans-serif;
+    font-size: 10px;
+}
+
+#schwarm {
+
+}
+
+#schwarm table {
+    width: 100%;
+}
+
+#schwarm .kind {
+    width: 10%;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+#schwarm .protected .kind {
+    background-color: #ff8e8e;
+}
+
+#schwarm .annotation {
+    width: 10%;
+    white-space: nowrap;
+}
+
+#schwarm .areas {
+    position: relative;
+}
+
+#schwarm .area {
+    position:absolute;
+    top: 0;
+    height: 10px;
+}
+
+#schwarm .area.active {
+    background-color: #FFB88A;
+}
+
+#schwarm .area.inactive {
+    background-color: #eee;
+}
+
+#schwarm .area.mainActive {
+    background-color: #98664C;
+}
+
+#schwarm .desc td {
+    background-color: lightgoldenrodyellow;
+    font-weight: bold;
+    text-align: left;
+}

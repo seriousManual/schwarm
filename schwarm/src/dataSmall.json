@@ -1,0 +1,212 @@
+[
+  {
+    "kind": "Anergates atratulus",
+    "proteced": false,
+    "annotation": "",
+    "areas": [
+      {
+        "start": "2017-01-01T00:00:00+01:00",
+        "end": "2017-05-01T00:00:00+02:00",
+        "state": "inactive"
+      },
+      {
+        "start": "2017-05-01T00:00:00+02:00",
+        "end": "2017-09-11T00:00:00+02:00",
+        "state": "active"
+      },
+      {
+        "start": "2017-09-11T00:00:00+02:00",
+        "end": "2017-12-31T00:00:00+01:00",
+        "state": "inactive"
+      }
+    ]
+  },
+  {
+    "kind": "Aphaeonogaster subterranea",
+    "proteced": false,
+    "annotation": "",
+    "areas": [
+      {
+        "start": "2017-01-01T00:00:00+01:00",
+        "end": "2017-07-21T00:00:00+02:00",
+        "state": "inactive"
+      },
+      {
+        "start": "2017-07-21T00:00:00+02:00",
+        "end": "2017-09-11T00:00:00+02:00",
+        "state": "active"
+      },
+      {
+        "start": "2017-09-11T00:00:00+02:00",
+        "end": "2017-12-31T00:00:00+01:00",
+        "state": "inactive"
+      }
+    ]
+  },
+  {
+    "kind": "Camponotus aethiops",
+    "proteced": false,
+    "annotation": "Keine Daten",
+    "areas": [
+      {
+        "start": "2017-01-01T00:00:00+01:00",
+        "end": "2017-12-31T00:00:00+01:00",
+        "state": "inactive"
+      }
+    ]
+  },
+  {
+    "kind": "Camponotus fallax",
+    "proteced": false,
+    "annotation": "12:00-17:30",
+    "areas": [
+      {
+        "start": "2017-01-01T00:00:00+01:00",
+        "end": "2017-04-21T00:00:00+02:00",
+        "state": "inactive"
+      },
+      {
+        "start": "2017-04-21T00:00:00+02:00",
+        "end": "2017-05-21T00:00:00+02:00",
+        "state": "active"
+      },
+      {
+        "start": "2017-05-21T00:00:00+02:00",
+        "end": "2017-12-31T00:00:00+01:00",
+        "state": "inactive"
+      }
+    ]
+  },
+  {
+    "kind": "Camponotus herculeanus",
+    "proteced": false,
+    "annotation": "20-28°C, 330-70min vor Sonnenuntergang",
+    "areas": [
+      {
+        "start": "2017-01-01T00:00:00+01:00",
+        "end": "2017-05-11T00:00:00+02:00",
+        "state": "inactive"
+      },
+      {
+        "start": "2017-05-11T00:00:00+02:00",
+        "end": "2017-07-11T00:00:00+02:00",
+        "state": "active"
+      },
+      {
+        "start": "2017-07-11T00:00:00+02:00",
+        "end": "2017-12-31T00:00:00+01:00",
+        "state": "inactive"
+      }
+    ]
+  },
+  {
+    "kind": "Camponotus ligniperda",
+    "proteced": false,
+    "annotation": "21-28°C, 330-105min vor Sonnenuntergang",
+    "areas": [
+      {
+        "start": "2017-01-01T00:00:00+01:00",
+        "end": "2017-05-01T00:00:00+02:00",
+        "state": "inactive"
+      },
+      {
+        "start": "2017-05-01T00:00:00+02:00",
+        "end": "2017-07-01T00:00:00+02:00",
+        "state": "active"
+      },
+      {
+        "start": "2017-07-01T00:00:00+02:00",
+        "end": "2017-12-31T00:00:00+01:00",
+        "state": "inactive"
+      }
+    ]
+  },
+  {
+    "kind": "Camponotus piceus",
+    "proteced": false,
+    "annotation": "",
+    "areas": [
+      {
+        "start": "2017-01-01T00:00:00+01:00",
+        "end": "2017-04-01T00:00:00+02:00",
+        "state": "inactive"
+      },
+      {
+        "start": "2017-04-01T00:00:00+02:00",
+        "end": "2017-08-01T00:00:00+02:00",
+        "state": "active"
+      },
+      {
+        "start": "2017-08-01T00:00:00+02:00",
+        "end": "2017-12-31T00:00:00+01:00",
+        "state": "inactive"
+      }
+    ]
+  },
+  {
+    "kind": "Camponotus truncatus",
+    "proteced": false,
+    "annotation": "",
+    "areas": [
+      {
+        "start": "2017-01-01T00:00:00+01:00",
+        "end": "2017-06-01T00:00:00+02:00",
+        "state": "inactive"
+      },
+      {
+        "start": "2017-06-01T00:00:00+02:00",
+        "end": "2017-08-11T00:00:00+02:00",
+        "state": "active"
+      },
+      {
+        "start": "2017-08-11T00:00:00+02:00",
+        "end": "2017-12-31T00:00:00+01:00",
+        "state": "inactive"
+      }
+    ]
+  },
+  {
+    "kind": "Camponotus vagus",
+    "proteced": false,
+    "annotation": "Ab 22°C, 12:00-15:00, 70%LF",
+    "areas": [
+      {
+        "start": "2017-01-01T00:00:00+01:00",
+        "end": "2017-04-21T00:00:00+02:00",
+        "state": "inactive"
+      },
+      {
+        "start": "2017-04-21T00:00:00+02:00",
+        "end": "2017-06-21T00:00:00+02:00",
+        "state": "active"
+      },
+      {
+        "start": "2017-06-21T00:00:00+02:00",
+        "end": "2017-12-31T00:00:00+01:00",
+        "state": "inactive"
+      }
+    ]
+  },
+  {
+    "kind": "Crematogaster scutellaris",
+    "proteced": false,
+    "annotation": "",
+    "areas": [
+      {
+        "start": "2017-01-01T00:00:00+01:00",
+        "end": "2017-08-01T00:00:00+02:00",
+        "state": "inactive"
+      },
+      {
+        "start": "2017-08-01T00:00:00+02:00",
+        "end": "2017-11-01T00:00:00+01:00",
+        "state": "active"
+      },
+      {
+        "start": "2017-11-01T00:00:00+01:00",
+        "end": "2017-12-31T00:00:00+01:00",
+        "state": "inactive"
+      }
+    ]
+  }
+]

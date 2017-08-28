@@ -1,0 +1,7 @@
+.idea
+spider/node_modules
+spider/export.json
+
+schwarm/node_modules
+schwarm/src/data.json
+schwarm/build
